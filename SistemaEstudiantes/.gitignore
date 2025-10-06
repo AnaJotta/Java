@@ -37,5 +37,5 @@ build/
 ### Mac OS ###
 .DS_Store
 
-# Configuración sensible
+# Configuración sensible para no subir a gith
 config.properties
