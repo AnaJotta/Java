@@ -13,7 +13,6 @@ Está pensado como ejemplo educativo o como base para proyectos más complejos d
 
 Posee una interfaz de consola (o gráfica, según la versión del proyecto) para interactuar con el usuario, persistencia (por ejemplo, con ficheros o base de datos) y lógica de negocio modular.
 
-
 ---
 
 ## 🚀 Características
@@ -26,8 +25,6 @@ Posee una interfaz de consola (o gráfica, según la versión del proyecto) para
 - Persistencia local (ficheros o base de datos).  
 - Validaciones de datos de entrada (fechas, campos obligatorios, etc.).
 
-
-
 ---
 
 ## 🛠 Tecnologías usadas
@@ -38,27 +35,6 @@ Posee una interfaz de consola (o gráfica, según la versión del proyecto) para
   - Librerías estándar de Java  
   - (Opcional) Bibliotecas para manejo de ficheros, JSON o JDBC  
 - **Sistema operativo:** Multiplataforma (Windows, macOS, Linux)
-
----
-
-## 📥 Instalación
-
-1. Clona este repositorio:
-git clone https://github.com/AnaJotta/Java.git
-
-2. Entra al directorio del proyecto:
-cd Java/GestionTareas
-(Opcional) Si usas Maven:
-mvn clean install
-
-3.Compila y ejecuta el proyecto:
-
-### Ejemplo
-javac -d bin src/**/*.java
-java -cp bin paquete.principal.ClasePrincipal
-O simplemente ejecútalo desde tu IDE favorito.
-
-
 
 ---
 
@@ -81,8 +57,6 @@ Elige la opción escribiendo el número correspondiente y pulsa Enter.<br>
 Sigue las indicaciones (introducir nombre, descripción, fecha, prioridad…).<br>
 Los cambios se guardan automáticamente (según tu configuración).<br>
 
-[⬆️ Volver al índice](#🧾-indice)
-
 ---
 
 ## 📁 Estructura del proyecto
@@ -103,8 +77,6 @@ GestionTareas/<br>
 └── README.md                    ← Este archivo<br>
 
 
-
-
 ---
 
 
@@ -118,13 +90,10 @@ Las contribuciones son bienvenidas. Si deseas mejorar la aplicación, por favor 
 - Sube tus cambios a tu fork (git push origin feature/nueva-caracteristica).
 - Abre un pull request describiendo tus cambios.
 
-
-
 ---
 
 ## 📜 Licencia
 Este proyecto está bajo la licencia MIT.
-
 
 ---
 
