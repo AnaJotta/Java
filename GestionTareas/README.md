@@ -4,17 +4,6 @@
 
 _Un sistema simple para la gestión de tareas en Java._
 
-## 🧾 Índice
-1. [📌 Descripción](#descripcion)
-2. [🚀 Características](#caracteristicas)
-3. [🛠 Tecnologías usadas](#tecnologias-usadas)
-4. [📥 Instalación](#instalacion)
-5. [🎯 Uso](#uso)
-6. [📁 Estructura del proyecto](#estructura-del-proyecto)
-7. [🤝 Contribuciones](#contribuciones)
-8. [📜 Licencia](#licencia)
-9. [📬 Contacto](#contacto)
-
 ---
 
 ## 📌 Descripción
@@ -24,7 +13,6 @@ Está pensado como ejemplo educativo o como base para proyectos más complejos d
 
 Posee una interfaz de consola (o gráfica, según la versión del proyecto) para interactuar con el usuario, persistencia (por ejemplo, con ficheros o base de datos) y lógica de negocio modular.
 
-[⬆️ Volver al índice](#🧾-indice)
 
 ---
 
@@ -38,7 +26,7 @@ Posee una interfaz de consola (o gráfica, según la versión del proyecto) para
 - Persistencia local (ficheros o base de datos).  
 - Validaciones de datos de entrada (fechas, campos obligatorios, etc.).
 
-[⬆️ Volver al índice](#🧾-indice)
+
 
 ---
 
@@ -50,8 +38,6 @@ Posee una interfaz de consola (o gráfica, según la versión del proyecto) para
   - Librerías estándar de Java  
   - (Opcional) Bibliotecas para manejo de ficheros, JSON o JDBC  
 - **Sistema operativo:** Multiplataforma (Windows, macOS, Linux)
-
-[⬆️ Volver al índice](#🧾-indice)
 
 ---
 
@@ -72,7 +58,7 @@ javac -d bin src/**/*.java
 java -cp bin paquete.principal.ClasePrincipal
 O simplemente ejecútalo desde tu IDE favorito.
 
-[⬆️ Volver al índice](#🧾-indice)
+
 
 ---
 
@@ -116,7 +102,7 @@ GestionTareas/<br>
 ├── pom.xml / build.gradle       ← Archivo de construcción (si aplica)<br>
 └── README.md                    ← Este archivo<br>
 
-[⬆️ Volver al índice](#🧾-índice)
+
 
 
 ---
@@ -132,21 +118,21 @@ Las contribuciones son bienvenidas. Si deseas mejorar la aplicación, por favor 
 - Sube tus cambios a tu fork (git push origin feature/nueva-caracteristica).
 - Abre un pull request describiendo tus cambios.
 
-[⬆️ Volver al índice](#🧾-indice)
+
 
 ---
 
 ## 📜 Licencia
 Este proyecto está bajo la licencia MIT.
-[⬆️ Volver al índice](#🧾-indice)
+
 
 ---
 
 ## 📬 Contacto
-Autor: [Ana Jotta](https://github.com/AnaJotta)
-Repositorio principal: [Java](https://github.com/AnaJotta/Java)
+Autor: [Ana Jotta](https://github.com/AnaJotta)<br>
+Repositorio principal: [Java](https://github.com/AnaJotta/Java)<br>
 Correo / redes: [![Email](https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail&logoColor=white)](mailto:anajessicamarinmorales@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ana-j-marin-morales/)
 
 
-[⬆️ Volver al índice](#🧾-indice)
+
