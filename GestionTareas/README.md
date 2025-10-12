@@ -5,10 +5,10 @@
 _Un sistema simple para la gestión de tareas en Java._
 
 ## 🧾 Índice
-1. [Descripción](#descripción)  
-2. [Características](#características)  
-3. [Tecnologías usadas](#tecnologías-usadas)  
-4. [Instalación](#instalación)  
+1. [Descripción](#descripcion)  
+2. [Características](#caracteristicas)  
+3. [Tecnologías usadas](#tecnologias-usadas)  
+4. [Instalación](#instalacion)  
 5. [Uso](#uso)  
 6. [Estructura del proyecto](#estructura-del-proyecto)  
 7. [Contribuciones](#contribuciones)  
@@ -24,7 +24,7 @@ Está pensado como ejemplo educativo o como base para proyectos más complejos d
 
 Posee una interfaz de consola (o gráfica, según la versión del proyecto) para interactuar con el usuario, persistencia (por ejemplo, con ficheros o base de datos) y lógica de negocio modular.
 
-[⬆️ Volver al índice](#🧾-índice)
+[⬆️ Volver al índice](#🧾-indice)
 
 ---
 
@@ -38,7 +38,7 @@ Posee una interfaz de consola (o gráfica, según la versión del proyecto) para
 - Persistencia local (ficheros o base de datos).  
 - Validaciones de datos de entrada (fechas, campos obligatorios, etc.).
 
-[⬆️ Volver al índice](#🧾-índice)
+[⬆️ Volver al índice](#🧾-indice)
 
 ---
 
@@ -51,7 +51,7 @@ Posee una interfaz de consola (o gráfica, según la versión del proyecto) para
   - (Opcional) Bibliotecas para manejo de ficheros, JSON o JDBC  
 - **Sistema operativo:** Multiplataforma (Windows, macOS, Linux)
 
-[⬆️ Volver al índice](#🧾-índice)
+[⬆️ Volver al índice](#🧾-indice)
 
 ---
 
@@ -72,7 +72,7 @@ javac -d bin src/**/*.java
 java -cp bin paquete.principal.ClasePrincipal
 O simplemente ejecútalo desde tu IDE favorito.
 
-[⬆️ Volver al índice](#🧾-índice)
+[⬆️ Volver al índice](#🧾-indice)
 
 ---
 
@@ -97,7 +97,7 @@ Los cambios se guardan automáticamente (según tu configuración).<br>
 
 💡 Consejo: realiza copias de seguridad del fichero o base de datos de tareas para evitar pérdidas de datos.
 
-[⬆️ Volver al índice](#🧾-índice)
+[⬆️ Volver al índice](#🧾-indice)
 
 ---
 
@@ -134,13 +134,13 @@ Las contribuciones son bienvenidas. Si deseas mejorar la aplicación, por favor 
 - Sube tus cambios a tu fork (git push origin feature/nueva-caracteristica).
 - Abre un pull request describiendo tus cambios.
 
-[⬆️ Volver al índice](#🧾-índice)
+[⬆️ Volver al índice](#🧾-indice)
 
 ---
 
 ## 📜 Licencia
 Este proyecto está bajo la licencia MIT.
-[⬆️ Volver al índice](#🧾-índice)
+[⬆️ Volver al índice](#🧾-indice)
 
 ---
 
@@ -151,4 +151,4 @@ Correo / redes: [![Email](https://img.shields.io/badge/Email-Contact-red?style=f
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ana-j-marin-morales/)
 
 
-[⬆️ Volver al índice](#🧾-índice)
+[⬆️ Volver al índice](#🧾-indice)
