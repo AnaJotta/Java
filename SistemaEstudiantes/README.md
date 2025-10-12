@@ -1,4 +1,4 @@
-# 🏫 SistemaEstudiantes
+# 👨‍🎓 SistemaEstudiantes
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![GitHub last commit](https://img.shields.io/github/last-commit/AnaJotta/SistemaEstudiantes)
