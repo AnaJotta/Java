@@ -1,6 +1,6 @@
 # 📋 GestiónTareas
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![GitHub last commit](https://img.shields.io/github/last-commit/AnaJotta/CatalogoPeliculasApp)
+![GitHub last commit](https://img.shields.io/github/last-commit/AnaJotta/ListadoPersonasApp)
 
 _Un sistema simple para listar personas en Java._
 ---
