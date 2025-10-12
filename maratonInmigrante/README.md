@@ -107,8 +107,8 @@ Este proyecto está bajo la licencia MIT.<br>
 
 Autor: [Ana Jotta](https://github.com/AnaJotta)<br>
 Repositorio principal: [Java](https://github.com/AnaJotta/Java)<br>
-Correo / redes: [![Email](https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail&logoColor=white)](mailto:anajessicamarinmorales@gmail.com)<br>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ana-j-marin-morales/)<br>
+Correo / redes: <br> [<img src="https://img.icons8.com/color/48/000000/gmail.png" width="24" />](mailto:anajessicamarinmorales@gmail.com)  
+[<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="24" />](https://www.linkedin.com/in/ana-j-marin-morales/)
 
 ---
 
