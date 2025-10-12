@@ -4,7 +4,7 @@
 
 _Un sistema simple para la gestión de tareas en Java._
 
-## 🧾 Índice
+## 🧾 ## Índice
 1. [Descripción](#descripcion)  
 2. [Características](#caracteristicas)  
 3. [Tecnologías usadas](#tecnologias-usadas)  
@@ -17,7 +17,7 @@ _Un sistema simple para la gestión de tareas en Java._
 
 ---
 
-## 📌 Descripción
+## 📌 ## Descripción
 
 Este proyecto ofrece una aplicación sencilla para **crear, modificar, listar y eliminar tareas**.  
 Está pensado como ejemplo educativo o como base para proyectos más complejos de gestión de tareas.
@@ -28,7 +28,7 @@ Posee una interfaz de consola (o gráfica, según la versión del proyecto) para
 
 ---
 
-## 🚀 Características
+## 🚀 ## Características
 
 - Crear nuevas tareas con título, descripción, fecha límite y prioridad.  
 - Modificar detalles de tareas existentes.  
@@ -42,7 +42,7 @@ Posee una interfaz de consola (o gráfica, según la versión del proyecto) para
 
 ---
 
-## 🛠 Tecnologías usadas
+## 🛠 ## Tecnologías
 
 - **Lenguaje:** Java (versión 8 o superior)  
 - **IDE recomendado:** IntelliJ IDEA, Eclipse o NetBeans  
@@ -55,7 +55,7 @@ Posee una interfaz de consola (o gráfica, según la versión del proyecto) para
 
 ---
 
-## 📥 Instalación
+## 📥 ## Instalación
 
 1. Clona este repositorio:
 git clone https://github.com/AnaJotta/Java.git
@@ -76,7 +76,7 @@ O simplemente ejecútalo desde tu IDE favorito.
 
 ---
 
-## 🎯 Uso
+## 🎯 ## Uso
 Al iniciar el programa, se mostrará un menú con opciones:
 
 - Crear Tarea
@@ -95,13 +95,11 @@ Elige la opción escribiendo el número correspondiente y pulsa Enter.<br>
 Sigue las indicaciones (introducir nombre, descripción, fecha, prioridad…).<br>
 Los cambios se guardan automáticamente (según tu configuración).<br>
 
-💡 Consejo: realiza copias de seguridad del fichero o base de datos de tareas para evitar pérdidas de datos.
-
 [⬆️ Volver al índice](#🧾-indice)
 
 ---
 
-## 📁 Estructura del proyecto
+## 📁 ## Estructura del proyecto
 css
 Copiar código
 GestionTareas/<br>
@@ -124,7 +122,7 @@ GestionTareas/<br>
 ---
 
 
-## 👏 Contribuciones
+## 👏 ## Contribuciones
 
 Las contribuciones son bienvenidas. Si deseas mejorar la aplicación, por favor sigue estos pasos:
 
@@ -138,13 +136,13 @@ Las contribuciones son bienvenidas. Si deseas mejorar la aplicación, por favor 
 
 ---
 
-## 📜 Licencia
+## 📜 ## Licencia
 Este proyecto está bajo la licencia MIT.
 [⬆️ Volver al índice](#🧾-indice)
 
 ---
 
-## 📬 Contacto
+## 📬 ## Contacto
 Autor: [Ana Jotta](https://github.com/AnaJotta)
 Repositorio principal: [Java](https://github.com/AnaJotta/Java)
 Correo / redes: [![Email](https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail&logoColor=white)](mailto:anajessicamarinmorales@gmail.com)
