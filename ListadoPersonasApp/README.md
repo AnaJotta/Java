@@ -47,7 +47,7 @@ Al iniciar el programa, se mostrará un menú con opciones:
 Elige la opción escribiendo el número correspondiente y pulsa Enter.<br>
 Sigue las indicaciones (introducir nombre, apellido…).<br>
 
-Los cambios se guardan automáticamente.
+**Los cambios se guardan automáticamente**
 ---
 
 ## 📁 Estructura del proyecto
