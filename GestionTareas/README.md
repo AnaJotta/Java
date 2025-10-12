@@ -1,6 +1,6 @@
 # 📋 GestiónTareas
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![GitHub last commit](https://img.shields.io/github/last-commit/AnaJotta/CatalogoPeliculasApp)
+![GitHub last commit](https://img.shields.io/github/last-commit/AnaJotta/GestionTareas)
 
 _Un sistema simple para la gestión de tareas en Java._
 
@@ -55,7 +55,7 @@ Al iniciar el programa, se mostrará un menú con opciones:
 
 Elige la opción escribiendo el número correspondiente y pulsa Enter.<br>
 Sigue las indicaciones (introducir nombre, descripción, fecha, prioridad…).<br>
-Los cambios se guardan automáticamente (según tu configuración).<br>
+**Los cambios se guardan automáticamente**.<br>
 
 ---
 
